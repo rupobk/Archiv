@@ -1,0 +1,10 @@
+c:\users\rupert.obkircher\documents\visual studio 2013\Projects\qshutdown\qshutdown\bin\Debug\qshutdown.exe.config
+c:\users\rupert.obkircher\documents\visual studio 2013\Projects\qshutdown\qshutdown\bin\Debug\qshutdown.exe
+c:\users\rupert.obkircher\documents\visual studio 2013\Projects\qshutdown\qshutdown\bin\Debug\qshutdown.pdb
+c:\users\rupert.obkircher\documents\visual studio 2013\Projects\qshutdown\qshutdown\bin\Debug\qshutdown.xml
+c:\users\rupert.obkircher\documents\visual studio 2013\Projects\qshutdown\qshutdown\obj\Debug\qshutdown.Form1.resources
+c:\users\rupert.obkircher\documents\visual studio 2013\Projects\qshutdown\qshutdown\obj\Debug\qshutdown.Resources.resources
+c:\users\rupert.obkircher\documents\visual studio 2013\Projects\qshutdown\qshutdown\obj\Debug\qshutdown.vbproj.GenerateResource.Cache
+c:\users\rupert.obkircher\documents\visual studio 2013\Projects\qshutdown\qshutdown\obj\Debug\qshutdown.exe
+c:\users\rupert.obkircher\documents\visual studio 2013\Projects\qshutdown\qshutdown\obj\Debug\qshutdown.xml
+c:\users\rupert.obkircher\documents\visual studio 2013\Projects\qshutdown\qshutdown\obj\Debug\qshutdown.pdb

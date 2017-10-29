@@ -1,0 +1,10 @@
+c:\users\rupert.obkircher\documents\visual studio 2013\Projects\qshtdwn\qshtdwn\bin\Debug\qshtdwn.exe.config
+C:\Users\rupert.obkircher\Documents\Visual Studio 2013\Projects\qshtdwn\qshtdwn\bin\Debug\qshtdwn.exe
+C:\Users\rupert.obkircher\Documents\Visual Studio 2013\Projects\qshtdwn\qshtdwn\bin\Debug\qshtdwn.pdb
+C:\Users\rupert.obkircher\Documents\Visual Studio 2013\Projects\qshtdwn\qshtdwn\bin\Debug\qshtdwn.xml
+C:\Users\rupert.obkircher\Documents\Visual Studio 2013\Projects\qshtdwn\qshtdwn\obj\Debug\qshtdwn.Resources.resources
+C:\Users\rupert.obkircher\Documents\Visual Studio 2013\Projects\qshtdwn\qshtdwn\obj\Debug\qshtdwn.vbproj.GenerateResource.Cache
+C:\Users\rupert.obkircher\Documents\Visual Studio 2013\Projects\qshtdwn\qshtdwn\obj\Debug\qshtdwn.exe
+C:\Users\rupert.obkircher\Documents\Visual Studio 2013\Projects\qshtdwn\qshtdwn\obj\Debug\qshtdwn.xml
+C:\Users\rupert.obkircher\Documents\Visual Studio 2013\Projects\qshtdwn\qshtdwn\obj\Debug\qshtdwn.pdb
+C:\Users\rupert.obkircher\Documents\Visual Studio 2013\Projects\qshtdwn\qshtdwn\obj\Debug\qshtdwn.Form1.resources

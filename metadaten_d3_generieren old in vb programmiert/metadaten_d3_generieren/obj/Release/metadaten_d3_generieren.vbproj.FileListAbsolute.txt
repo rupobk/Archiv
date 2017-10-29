@@ -1,0 +1,10 @@
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Drittprodukte\metadaten_d3_generieren\metadaten_d3_generieren\bin\Release\metadaten_d3_generieren.exe.config
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Drittprodukte\metadaten_d3_generieren\metadaten_d3_generieren\bin\Release\metadaten_d3_generieren.exe
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Drittprodukte\metadaten_d3_generieren\metadaten_d3_generieren\bin\Release\metadaten_d3_generieren.pdb
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Drittprodukte\metadaten_d3_generieren\metadaten_d3_generieren\bin\Release\metadaten_d3_generieren.xml
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Drittprodukte\metadaten_d3_generieren\metadaten_d3_generieren\obj\Release\metadaten_d3_generieren.Resources.resources
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Drittprodukte\metadaten_d3_generieren\metadaten_d3_generieren\obj\Release\metadaten_d3_generieren.vbproj.GenerateResource.Cache
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Drittprodukte\metadaten_d3_generieren\metadaten_d3_generieren\obj\Release\metadaten_d3_generieren.vbproj.CoreCompileInputs.cache
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Drittprodukte\metadaten_d3_generieren\metadaten_d3_generieren\obj\Release\metadaten_d3_generieren.exe
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Drittprodukte\metadaten_d3_generieren\metadaten_d3_generieren\obj\Release\metadaten_d3_generieren.xml
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Drittprodukte\metadaten_d3_generieren\metadaten_d3_generieren\obj\Release\metadaten_d3_generieren.pdb
